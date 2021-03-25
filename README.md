@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hai Bro 👋
 
 <!--
 **RizkyTatawalat/RizkyTatawalat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Ide Saya
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 Saya Ingin Belajar Github
+- 🌱 Saya ingin Berkolaborasi dengan tim teknik
+- 👯 saya ingin menambah pengetahuan
+- 🤔 mencari bantuan
+- 💬 tanya saya : saya kursus di JayaNegara
+- 📫 hubungi saya lewat Wa:081343024213
+- 😄 Nama panggilan saya : Chibel
+- ⚡ Hobi Saya : Bernafas
 -->
